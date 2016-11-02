@@ -1,4 +1,4 @@
-[![](https://img.shields.io/docker/pulls/marian/benchmark-container.svg)](http://hub.docker.com/marian/benchmark-container)
+[![](https://img.shields.io/docker/pulls/marian/benchmark-container.svg)](http://hub.docker.com/r/marian/benchmark-container)
 
 # Simple Benchmark Container
 
