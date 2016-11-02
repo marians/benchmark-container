@@ -23,4 +23,4 @@ for i in make_pi(digits):
     pass
 
 
-print("Calculated %d digits in %.3f Seconds" % (digits, time.time() - start))
+print("Calculated %d digits in: %.2f seconds" % (digits, time.time() - start))

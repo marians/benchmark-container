@@ -1,5 +1,5 @@
 FROM debian:latest
-RUN apt-get update && apt-get install -y --no-install-recommends python
+RUN apt-get update && apt-get install -y --no-install-recommends python time
 WORKDIR /benchmark/
 ADD . /benchmark/
-CMD /bin/bash
+CMD ./run-all.sh
